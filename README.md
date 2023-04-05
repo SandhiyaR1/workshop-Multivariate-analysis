@@ -75,7 +75,8 @@ sns.heatmap(df.corr(),annot=True)
 # Multivariate Analysis
 ### Heatmap
 ![image](https://user-images.githubusercontent.com/113497571/230115503-2b6dc897-1826-4291-9178-d399c1129435.png)
-
+# RESULT
+Thus the Bivariate/Multivariate Analysis for the given data set is executed successfully.
 
 
 
